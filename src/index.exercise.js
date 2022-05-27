@@ -1,6 +1,7 @@
 // 🐨 make sure to add the comment and import jsx from @emotion/core
 // up here so you can use the css prop
-
+/** @jsx jsx */
+import {jsx} from '@emotion/core'
 // 🐨 let's get a solid reset of global styles so everything looks a bit better
 // In this project we're using bootstrap-reboot which you can import from
 // bootstrap/dist/css/bootstrap-reboot.css
