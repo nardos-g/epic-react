@@ -1,6 +1,7 @@
 import styled from '@emotion/styled/macro'
 import {Dialog as ReachDialog} from '@reach/dialog'
-
+import * as colors from 'styles/colors'
+import * as mq from 'styles/media-queries'
 // 🐨 create a button styled component here called "Button"
 // make it look nice and allow it to support a "variant" prop which can be
 // either "primary" or "secondary".
